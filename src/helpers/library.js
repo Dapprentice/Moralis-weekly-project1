@@ -8,7 +8,7 @@ export const movies = [
         Scene :SDC11227,
         Logo:movieLogo,
         Name :"",
-        Description:"Let go",
+        Description:"Let's go faster with Moralis motorplugs",
         Genre :"Romance",
         Actors :"Winner",
         Year:"2003",
