@@ -1,6 +1,5 @@
 import SDC11227 from "../images/SDC11227.JPG";
-import tita from "../images/tit.png";
-import movieLogo from "../images/movieLogo.png";
+
 
 export const movies = [
     {
